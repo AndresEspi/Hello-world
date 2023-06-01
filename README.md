@@ -19,7 +19,7 @@
 
 # 📖 HELLO-WORLD <a name="about-project"></a>
 
-**In this project we use liters, a file called README and give a hello message to microverse.** 
+**In this project i use liters, a file called README and give a hello message to microverse.** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
