@@ -93,8 +93,8 @@ If you find this project useful, please consider supporting it. Your support mea
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank .....
-- **[microvrese for allowing me to participate in this great boot-camp]**
-- **[my groupmates from the first week]**
+- **microvrese for allowing me to participate in this great boot-camp**
+- **my groupmates from the first week**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
