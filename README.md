@@ -1,14 +1,4 @@
 <a name="readme-top"></a>
-
-<div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>hello-world</b></h3>
-
-</div>
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -19,9 +9,6 @@
   - [Clone the repository](#Clone-the-repository)
   - [Setup](#setup)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -30,22 +17,22 @@
 
 
 
-# 📖 [HELLO-WORLD] <a name="about-project"></a>
+# 📖 HELLO-WORLD <a name="about-project"></a>
 
-**[In this project we use liters, a file called README and give a hello message to microverse.]** 
+**In this project we use liters, a file called README and give a hello message to microverse.** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **[HTML]**
-- **[CSS]**
+- **HTML**
+- **CSS**
 
 ### Key Features <a name="key-features"></a>
 
-- **[Version control]**
-- **[Branching and merging]**
-- **[Collaboration and teamwork]**
+- **Version control**
+- **Branching and merging**
+- **Collaboration and teamwork**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,10 +40,10 @@
 
 Ensure you have the following software installed on your machine:
 
-- **[code editor(I recommend Visual Studio Code )]**
-- **[Git]**
+- **code editor(I recommend Visual Studio Code )**
+- **Git**
 
-### Clone the repository:
+### Clone the repository
 
 Open a terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
 ´git clone https://github.com/AndresEspi/hello-world.git´
